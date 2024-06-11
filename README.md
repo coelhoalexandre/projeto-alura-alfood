@@ -11,7 +11,7 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
-- [Observações](#observacoes)
+- [Observações](#observações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
