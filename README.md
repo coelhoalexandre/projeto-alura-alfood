@@ -1,9 +1,8 @@
-
-<h1 align="center"> Projeto AluraOni </h1>
+<h1 align="center"> Projeto Alfood </h1>
 
 <div align="center">
 
-  <a href="https://github.com/coelhoalexandre/projet-aluraoni/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
+  <a href="https://github.com/coelhoalexandre/projeto-alura-alfood/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
 </div>
 
@@ -12,20 +11,21 @@
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Objetivos do Projeto](#objetivos-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
+- [Observações](#observacoes)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-Projeto do curso [React: conhecendo a biblioteca React Router](https://cursos.alura.com.br/course/react-biblioteca-react-router), instruido por [**Luiz Fernando**](https://github.com/lfrprazeres).
+Projeto do curso [React: integrando seu projeto React com APIs](https://cursos.alura.com.br/course/react-integrando-projeto-react-apis), instruido por [**Vinicios Neves**](https://github.com/viniciosneves).
 
 ## Objetivos do Projeto
 
-- Saber como refatorar um projeto utilizando ESLint;
-- Desenvolver um código escalável, priorizando um código limpo e fácil de entender;
-- Utilizar o pacote react-router-dom de forma simples e prática, aprendendo todos os conceitos principais da biblioteca;
-- Descubrir como a biblioteca se integra com o navegador e utiliza de coisas nativas para mudar as rotas e compartilhar estados;
-- Criar telas navegando entre elas de diversas formas diferentes e reaproveite componentes eles elas;
-- Entender sobre nested routes e como criá-las para reaproveitar código e resolver problemas.
+- Desenvolver a comunicação entre uma aplicação React e uma API REST;
+- Implementar hooks para buscar dados em uma API;
+- Utilizar o axios para realizar requisições HTTP;
+- Avaliar as informações da resposta da API;
+- Integrar o frontend ao backend;
+- Descrever o funcionamento de uma API a partir do Swagger.
 
 ## Tecnolgias Utilizadas
 
@@ -34,6 +34,14 @@ Projeto do curso [React: conhecendo a biblioteca React Router](https://cursos.al
 3. JS
 4. React
 5. TS
+6. Axios
+
+## Observações
+
+- O projeto possui uma aba /admin
+- O projeto tentar consumir API da url "http://localhost:8000/"
+- Não sei como subir esta API, então vai ter que ser uma ação manual
+- Baixe a pasta -> Tenha docker -> User o docker-compose build e depois o docker-compose up e então deve está tudo pronto
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
